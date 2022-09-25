@@ -13,8 +13,3 @@
 - Statistical Analysis
 - eXplainable AI (XAI) 
 - ML/DL
-
-
-<br>
-
-[![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourmean)](https://github.com/yourmean/github-readme-stats)

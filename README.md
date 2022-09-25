@@ -1,8 +1,5 @@
 ## Yumin Lee
 
----
-
-
 ### 📌 Career
 - Samsung Electronics ```Sep.2021 ~```
 

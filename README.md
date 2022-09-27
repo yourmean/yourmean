@@ -1,7 +1,7 @@
 ## Yumin Lee
 
 ### 📌 Career
-- Samsung Electronics ```Sep.2021 ~```
+- Samsung Electronics ```Sep. 2021 ~```
 
 ### 📌 Education 
 - M.S in Knowledge Service Engineering, KAIST (Cancellation of Registration) ```Jun. 2021``` 
